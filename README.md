@@ -43,5 +43,5 @@ Below is the list of politicials taken into account for this project
 | Uttarakhand              | Shri Trivendra Singh Rawat    | tsrawatbjp      |
 | West Bengal              | Km. Mamata Banerjee           | MamataOfficial  |
 
-The dataset contains of 2 variables Source (Follower) and Target (been Followed) 
+The dataset contains of 2 variables Source (Follower) and Target (been Followed) <br>
 dated : 16-01-2020
