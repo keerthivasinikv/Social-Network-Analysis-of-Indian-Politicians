@@ -1,10 +1,10 @@
 # Social Network Analysis of Indian Politicians
 
-## Social network Analysis
+### [Social network Analysis](https://github.com/keerthivasinikv/Social-Network-Analysis-of-Indian-Politicians/blob/main/SNA_Ind_politicians.ipynb)
 
 Social network analysis (SNA) is the process of investigating social structures through the use of networks and graph theory. It characterizes networked structures in terms of nodes (here it is Politicians) and the edges (relationships or interactions) that connect them.
 
-Below is the list of politicials taken into account for this project
+Below is the list of politicians taken into account for this project, It contains all the state chief ministers and few well-known central ministers. 
 
 | Ministers                | Name                          | Twitter Id      |
 |--------------------------|-------------------------------|-----------------|
